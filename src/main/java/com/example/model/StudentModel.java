@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class StudentModel
 {
-    private String npm;
+	private String npm;
     private String name;
     private double gpa;
 
